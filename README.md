@@ -1,0 +1,1 @@
+Este é um projeto simples apenas para demonstração de conhecimentos básicos de spark.
